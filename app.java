@@ -1,5 +1,5 @@
-DBA
-DevOps
+We support
+java application
 Agile
 Waterfall
 Lean
